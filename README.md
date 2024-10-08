@@ -34,7 +34,7 @@
 
 ### 🏆 Top Languages
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=light](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmers&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmers&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ### 🔥 Contributions Streak
