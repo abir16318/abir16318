@@ -29,17 +29,17 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=light" alt="Your GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=light](https://github-readme-stats.vercel.app/api?username=Programmers&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="Your GitHub Stats" />
 </div>
 
 ### 🏆 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=light" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=light](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmers&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="Top Languages" />
 </div>
 
 ### 🔥 Contributions Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=light" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=light](https://github-readme-streak-stats.herokuapp.com/?user=Programmers&theme=vue-dark&hide_border=true)" alt="GitHub Streak" />
 </div>
 
 ### 💻 Projects
