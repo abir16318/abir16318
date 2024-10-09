@@ -25,17 +25,17 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
 ### 🏆 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ### 🔥 Contributions Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=vue-dark&hide_border=true" alt="Contributions Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=vue-dark&hide_border=true"/>
 </div>
 
 ### 💻 Projects
@@ -49,12 +49,22 @@ I created responsive, secure platforms for product listing, inventory management
 I developed a responsive, dynamic platform with real-time content updates, efficient categorization, and seamless navigation, ensuring a user-friendly experience for readers and streamlined content management for editors.
 
 ### 📫 How to reach me:
-<p align="center">
-  <a href="mailto:your.email@example.com" style="font-size: 18px; color: #2C3E50;">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" style="font-size: 18px; color: #2C3E50;">LinkedIn</a> •
-  <a href="https://www.upwork.com/freelancers/your-upwork-profile" style="font-size: 18px; color: #2C3E50;">Upwork</a> •
-  <a href="https://your-portfolio.com" style="font-size: 18px; color: #2C3E50;">Portfolio</a>
-</p>
+<div align="center">
+  <a href="mdabirhossain16318@gmail.com" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
+    <img src="https://img.icons8.com/material-outlined/24/2C3E50/mail.png" alt="Email" style="vertical-align: middle;"/> Email
+  </a> •
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
+    <img src="https://img.icons8.com/material-outlined/24/2C3E50/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"/> LinkedIn
+  </a> •
+  <a href="https://www.upwork.com/freelancers/your-upwork-profile" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
+    <img src="https://img.icons8.com/material-outlined/24/2C3E50/upwork.png" alt="Upwork" style="vertical-align: middle;"/> Upwork
+  </a> •
+  <a href="https://your-portfolio.com" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
+    <img src="https://img.icons8.com/material-outlined/24/2C3E50/web.png" alt="Portfolio" style="vertical-align: middle;"/> Portfolio
+  </a>
+</div>
+
+
 
 ---
 
