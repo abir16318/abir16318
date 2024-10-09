@@ -50,16 +50,16 @@
 ### 📫 How to reach me:
 <div align="center">
   <a href="mailto:your.email@example.com" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/2C3E50/email.png" alt="Email" style="vertical-align: middle;"/> Email
+    <img src="https://img.icons8.com/ios-filled/50/2C3E50/email.png" style="vertical-align: middle;"/> Email
   </a> •
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/2C3E50/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"/> LinkedIn
+    <img src="https://img.icons8.com/ios-filled/50/2C3E50/linkedin.png" style="vertical-align: middle;"/> LinkedIn
   </a> •
   <a href="https://www.upwork.com/freelancers/your-upwork-profile" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/2C3E50/upwork.png" alt="Upwork" style="vertical-align: middle;"/> Upwork
+    <img src="https://img.icons8.com/ios-filled/50/2C3E50/upwork.png" style="vertical-align: middle;"/> Upwork
   </a> •
   <a href="https://your-portfolio.com" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/2C3E50/web.png" alt="Portfolio" style="vertical-align: middle;"/> Portfolio
+    <img src="https://img.icons8.com/ios-filled/50/2C3E50/web.png"style="vertical-align: middle;"/> Portfolio
   </a>
 </div>
 
