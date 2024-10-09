@@ -43,11 +43,14 @@
 </div>
 
 ### 💻 Projects
-- [School Admin Create](https://github.com/your-username/project-1):
+- [School Admin Create](https://github.com/your-username/project-1
+
 - As a Web Developer for a School Admin system, I design user-friendly, secure platforms for managing student data, attendance, grades, and communication, ensuring smooth administrative processes and seamless user experiences for staff, students, and parents.
 - [E-commerce Product Development](https://github.com/your-username/project-2):
+- 
 As a Web Developer for eCommerce product development, I create responsive, secure platforms for product listing, inventory management, payment integration, and smooth user experiences, optimizing functionality to drive sales and customer satisfaction.
 - [News Prtal Development](https://github.com/your-username/project-3):
+- 
 - As a Web Developer for news portal development, I design responsive, dynamic platforms with real-time content updates, efficient categorization, and seamless navigation, ensuring a user-friendly experience for readers and streamlined content management for editors.
 
 ### 📫 How to reach me:
