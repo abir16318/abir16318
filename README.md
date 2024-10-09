@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center" style="color: #2C3E50;">Hi there, I'm Md Abir Hossain 👋</h1>
-<p align="center" style="color: #34495E; font-size: 20px;">A passionate Full Stack Developer with a focus on building efficient and scalable web applications.</p>
+<p align="center" style="color: #34495E; font-size: 20px;">Full-Stack Developer with expertise in PHP, Python, .NET, JavaScript, React, and CSS. I create secure, scalable, and responsive web solutions, handling both front-end and back-end development to deliver efficient and customized websites and applications tailored to your specific business needs</p>
 
 ### 🛠️ Technologies & Tools
 <div align="center">
@@ -43,9 +43,10 @@
 </div>
 
 ### 💻 Projects
-- **[Project Name 1](https://github.com/your-username/project-1):** Brief description of the project.
-- **[Project Name 2](https://github.com/your-username/project-2):** Brief description of the project.
-- **[Project Name 3](https://github.com/your-username/project-3):** Brief description of the project.
+- **[School Admin Create](https://github.com/your-username/project-1):**As a Web Developer for a School Admin system, I design user-friendly, secure platforms for managing student data, attendance, grades, and communication, ensuring smooth administrative processes and seamless user experiences for staff, students, and parents.
+- **[E-commerce Product Development](https://github.com/your-username/project-2):** 
+As a Web Developer for eCommerce product development, I create responsive, secure platforms for product listing, inventory management, payment integration, and smooth user experiences, optimizing functionality to drive sales and customer satisfaction.
+- **[News Prtal Development](https://github.com/your-username/project-3):** As a Web Developer for news portal development, I design responsive, dynamic platforms with real-time content updates, efficient categorization, and seamless navigation, ensuring a user-friendly experience for readers and streamlined content management for editors.
 
 ### 📫 How to reach me:
 <p align="center">
