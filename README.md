@@ -52,10 +52,10 @@
   <a href="mdabirhossain16318@gmail.com" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/2C3E50/email.png" style="vertical-align: middle;"/>
   </a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/md-abir-hossain-5733a8180" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/md-abir-hossain-5733a8180" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/2C3E50/linkedin.png" style="vertical-align: middle;"/>
   </a> •
-  <a href="https://www.upwork.com/freelancers/your-upwork-profile](https://www.upwork.com/freelancers/~016e22c3ffec498810?mp_source=share" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
+  <a href="https://www.upwork.com/freelancers/~016e22c3ffec498810?mp_source=share" style="font-size: 18px; color: #2C3E50; text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/2C3E50/upwork.png" style="vertical-align: middle;"/>
   </a>
 </div>
